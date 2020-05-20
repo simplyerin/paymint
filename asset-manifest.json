@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paymint/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paymint/static/js/main.b61020b4.chunk.js",
+    "main.js.map": "/paymint/static/js/main.b61020b4.chunk.js.map",
+    "runtime-main.js": "/paymint/static/js/runtime-main.2ac003e8.js",
+    "runtime-main.js.map": "/paymint/static/js/runtime-main.2ac003e8.js.map",
+    "static/js/2.4667c2e5.chunk.js": "/paymint/static/js/2.4667c2e5.chunk.js",
+    "static/js/2.4667c2e5.chunk.js.map": "/paymint/static/js/2.4667c2e5.chunk.js.map",
+    "index.html": "/paymint/index.html",
+    "precache-manifest.28e65f4cbea36e6e0f457c32218db203.js": "/paymint/precache-manifest.28e65f4cbea36e6e0f457c32218db203.js",
+    "service-worker.js": "/paymint/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paymint/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4667c2e5.chunk.js.LICENSE.txt": "/paymint/static/js/2.4667c2e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/paymint/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac003e8.js",
+    "static/js/2.4667c2e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b61020b4.chunk.js"
+  ]
+}
