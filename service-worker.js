@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/paymint/precache-manifest.28e65f4cbea36e6e0f457c32218db203.js"
+  "/paymint/precache-manifest.04cfe8014a50dd74b9838cccbb7876de.js"
 );
 
 self.addEventListener('message', (event) => {

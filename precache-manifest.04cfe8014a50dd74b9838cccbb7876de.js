@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b261fc1c24f18968a2caa178334f372",
+    "revision": "a36c9c601cf704397ffc649ba06a870a",
     "url": "/paymint/index.html"
   },
   {
-    "revision": "36213c63c2a206bda67a",
+    "revision": "05c6f6d6ee70d50bb357",
     "url": "/paymint/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paymint/static/js/2.4667c2e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36213c63c2a206bda67a",
-    "url": "/paymint/static/js/main.b61020b4.chunk.js"
+    "revision": "05c6f6d6ee70d50bb357",
+    "url": "/paymint/static/js/main.038df6c2.chunk.js"
   },
   {
     "revision": "19859ad0f4196de66210",
