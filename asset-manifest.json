@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/paymint/static/css/main.5f361e03.chunk.css",
-    "main.js": "/paymint/static/js/main.74d74335.chunk.js",
-    "main.js.map": "/paymint/static/js/main.74d74335.chunk.js.map",
+    "main.js": "/paymint/static/js/main.8a4d1b58.chunk.js",
+    "main.js.map": "/paymint/static/js/main.8a4d1b58.chunk.js.map",
     "runtime-main.js": "/paymint/static/js/runtime-main.67896280.js",
     "runtime-main.js.map": "/paymint/static/js/runtime-main.67896280.js.map",
-    "static/js/2.5e9141f5.chunk.js": "/paymint/static/js/2.5e9141f5.chunk.js",
-    "static/js/2.5e9141f5.chunk.js.map": "/paymint/static/js/2.5e9141f5.chunk.js.map",
+    "static/js/2.f6a68378.chunk.js": "/paymint/static/js/2.f6a68378.chunk.js",
+    "static/js/2.f6a68378.chunk.js.map": "/paymint/static/js/2.f6a68378.chunk.js.map",
     "index.html": "/paymint/index.html",
-    "precache-manifest.e23d53bbc1c16bbd23c7cf7e91d45bd4.js": "/paymint/precache-manifest.e23d53bbc1c16bbd23c7cf7e91d45bd4.js",
+    "precache-manifest.4517f06777f0584e8812297eeae657aa.js": "/paymint/precache-manifest.4517f06777f0584e8812297eeae657aa.js",
     "service-worker.js": "/paymint/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/paymint/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5e9141f5.chunk.js.LICENSE.txt": "/paymint/static/js/2.5e9141f5.chunk.js.LICENSE.txt",
+    "static/js/2.f6a68378.chunk.js.LICENSE.txt": "/paymint/static/js/2.f6a68378.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/paymint/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.67896280.js",
-    "static/js/2.5e9141f5.chunk.js",
+    "static/js/2.f6a68378.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.74d74335.chunk.js"
+    "static/js/main.8a4d1b58.chunk.js"
   ]
 }
